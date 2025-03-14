@@ -46,7 +46,7 @@ Essa funcionalidade permite visualizar os livros cadastrados e acessar suas resp
 ##  Estrutura do Projeto
 
 ```bash
-/seu-projeto
+/cadastro de livros
 │── imagem/              # Diretório para armazenar imagens
 │── .gitignore           # Arquivo que define quais arquivos devem ser ignorados pelo Git
 │── README.md            # Documentação do projeto
