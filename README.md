@@ -2,10 +2,10 @@
 
 Esse projeto funciona como uma biblioteca virtual. Nele é possível cadastrar os seguintes dados sobre os livros:
 
-Título do livro
-Autor principal
-Quantidade de páginas
-Ano de publicação
+###Título do livro
+###Autor principal
+###Quantidade de páginas
+###Ano de publicação
 
 Criado um projeto no Firebase 
 Habilitado o Firestore e a autenticação
