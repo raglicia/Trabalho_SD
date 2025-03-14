@@ -39,8 +39,6 @@ Após clicar na opção **"Cadastrar"**, o usuário será direcionado para uma t
   - E-mail válido
   - Definir uma senha
   
-- **Acessar uma conta existente**: Caso já tenha se registrado previamente, o usuário pode entrar com as credenciais fornecidas durante o cadastro.Em seguida, ele será redirecionado para o sistema da biblioteca, onde terá acesso às seguintes funcionalidades:
-
 ### 1. Cadastrar Livro
 
 O usuário deve fornecer todas as informações necessárias sobre a obra. Após finalizar o cadastro, o livro será adicionado ao sistema.
