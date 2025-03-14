@@ -28,7 +28,18 @@ pip install firebase-admin customtkinter
 
 ### Cadastro e Login
 
-Após clicar na opção **"Cadastrar"**, o usuário pode criar uma nova conta ou acessar uma conta existente. Em seguida, ele será redirecionado para o sistema da biblioteca, onde terá acesso às seguintes funcionalidades:
+Na tela inicial do sistema, o usuário encontra duas opções principais:
+
+**Entrar** – Para quem já tem uma conta no sistema e deseja acessar seus recursos.
+**Cadastrar** – Para quem ainda não possui uma conta e precisa criar uma nova.
+
+Após clicar na opção **"Cadastrar"**, o usuário será direcionado para uma tela de **Cadastro de usuário **, onde ele poderá:
+
+- **Criar uma nova conta**: O usuário precisa preencher informações como:
+  - E-mail válido
+  - Definir uma senha
+  
+- **Acessar uma conta existente**: Caso já tenha se registrado previamente, o usuário pode entrar com as credenciais fornecidas durante o cadastro.Em seguida, ele será redirecionado para o sistema da biblioteca, onde terá acesso às seguintes funcionalidades:
 
 ### 1. Cadastrar Livro
 
