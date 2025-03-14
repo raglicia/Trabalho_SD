@@ -43,7 +43,7 @@ Essa funcionalidade permite visualizar os livros cadastrados e acessar suas resp
 
 ---
 
-Este projeto foi desenvolvido utilizando **Python**, **Tkinter** e **Firebase Firestore** para armazenamento de dados e autenticação.
+
 
 
 
