@@ -42,6 +42,22 @@ Essa funcionalidade permite visualizar os livros cadastrados e acessar suas resp
 - **Editar Livro**: O usuário pode modificar as informações de um livro clicando na opção **"Editar"**. O sistema exibirá uma mensagem informando que os dados foram atualizados com sucesso.
 
 ---
+
+##  Estrutura do Projeto
+
+```bash
+/seu-projeto
+│── imagem/              # Diretório para armazenar imagens
+│── .gitignore           # Arquivo que define quais arquivos devem ser ignorados pelo Git
+│── README.md            # Documentação do projeto
+│── cadastro_livros.py   # Script para cadastro de livros
+│── cadastro_usuario.py  # Script para cadastro de usuários
+│── firebase_config.py   # Configuração do Firebase
+│── listar_livros.py     # Script para listar livros
+│── login.py             # Script para login de usuários
+│── main.py              # Arquivo principal do projeto
+│── principal.py         # Tela principal da aplicação
+
 ## Telas do Sistema
  ![login](imagem/login.jpg)
  ![sistema](imagem/sistema.jpg)
